@@ -1,0 +1,9 @@
+C:\Users\Miles Robson\Documents\UnityProjects\Pong\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\Miles Robson\Documents\UnityProjects\Pong\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Miles Robson\Documents\UnityProjects\Pong\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Miles Robson\Documents\UnityProjects\Pong\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Miles Robson\Documents\UnityProjects\Pong\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Miles Robson\Documents\UnityProjects\Pong\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Miles Robson\Documents\UnityProjects\Pong\obj\Debug\Assembly-CSharp.dll
+C:\Users\Miles Robson\Documents\UnityProjects\Pong\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Miles Robson\Documents\UnityProjects\Pong\obj\Debug\UnityVS.Pong.CSharp.csprojResolveAssemblyReference.cache
